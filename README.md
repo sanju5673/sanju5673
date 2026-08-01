@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Sanju Khandelwal
 
-<!--
-**sanju5673/sanju5673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final-Year Artificial Intelligence & Data Science Engineering Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+💡 Passionate about transforming data into meaningful insights through analytics, visualization, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on **Data Analysis & Machine Learning Projects**
+- 🌱 Currently learning **Advanced SQL, Power BI & Machine Learning**
+- 👯 Looking to collaborate on **Data Analytics Projects**
+- 💬 Ask me about **Python, SQL, Power BI, Excel, Pandas & NumPy**
+- 📫 How to reach me : khandelwalsanju@gmail.com
+
+### 🛠️ Tech Stack
+**Python • SQL • Power BI • Excel • Pandas • NumPy • Scikit-learn • TensorFlow • Git • GitHub**
+
+
