@@ -9,8 +9,11 @@ I enjoy analyzing data, discovering patterns, and building dashboards that suppo
 - 📈 Interested in **Data Analytics, Business Intelligence & Machine Learning**
 - 💬 Ask me about **Python, SQL, Power BI, Excel, Pandas & NumPy**
 - 📫 How to Reach me: **khandelwalsanju82@gmail.com**
-- ## 🛠️ Skills
-**Python • SQL • Power BI • Excel • Pandas • NumPy • Machine Learning • Artificial Intelligence**
+
+### 🛠️ Tech Stack
+`Python` • `SQL` • `Power BI` • `Excel` • `Pandas` • `NumPy` • `Scikit-learn` • `TensorFlow` • `Git` • `GitHub`
+
+> *"Turning data into actionable insights."*
 
 
 
