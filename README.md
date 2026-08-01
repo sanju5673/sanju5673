@@ -1,16 +1,16 @@
 # Hi 👋, I'm Sanju Khandelwal
 
 ### Final-Year Artificial Intelligence & Data Science Engineering Student | Aspiring Data Analyst
+📊 **Aspiring Data Analyst**
 
-💡 Passionate about transforming data into meaningful insights through analytics, visualization, and machine learning.
+I enjoy analyzing data, discovering patterns, and building dashboards that support data-driven decision-making.
 
-- 🔭 Currently working on **Data Analysis & Machine Learning Projects**
-- 🌱 Currently learning **Advanced SQL, Power BI & Machine Learning**
-- 👯 Looking to collaborate on **Data Analytics Projects**
+- 🔭 Working on **real-world Data Analysis practice projects**
+- 📈 Interested in **Data Analytics, Business Intelligence & Machine Learning**
 - 💬 Ask me about **Python, SQL, Power BI, Excel, Pandas & NumPy**
-- 📫 How to reach me : khandelwalsanju@gmail.com
+- 📫 How to Reach me: **khandelwalsanju82@gmail.com**
+- ## 🛠️ Skills
+**Python • SQL • Power BI • Excel • Pandas • NumPy • Machine Learning • Artificial Intelligence**
 
-### 🛠️ Tech Stack
-**Python • SQL • Power BI • Excel • Pandas • NumPy • Scikit-learn • TensorFlow • Git • GitHub**
 
 
